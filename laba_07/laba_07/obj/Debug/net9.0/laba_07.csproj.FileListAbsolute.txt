@@ -1,0 +1,14 @@
+C:\Users\Пользователь\Desktop\uni 2024\2_year\YAPI\7_lab\laba_07\laba_07\bin\Debug\net9.0\laba_07.exe
+C:\Users\Пользователь\Desktop\uni 2024\2_year\YAPI\7_lab\laba_07\laba_07\bin\Debug\net9.0\laba_07.deps.json
+C:\Users\Пользователь\Desktop\uni 2024\2_year\YAPI\7_lab\laba_07\laba_07\bin\Debug\net9.0\laba_07.runtimeconfig.json
+C:\Users\Пользователь\Desktop\uni 2024\2_year\YAPI\7_lab\laba_07\laba_07\bin\Debug\net9.0\laba_07.dll
+C:\Users\Пользователь\Desktop\uni 2024\2_year\YAPI\7_lab\laba_07\laba_07\bin\Debug\net9.0\laba_07.pdb
+C:\Users\Пользователь\Desktop\uni 2024\2_year\YAPI\7_lab\laba_07\laba_07\obj\Debug\net9.0\laba_07.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\Desktop\uni 2024\2_year\YAPI\7_lab\laba_07\laba_07\obj\Debug\net9.0\laba_07.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Desktop\uni 2024\2_year\YAPI\7_lab\laba_07\laba_07\obj\Debug\net9.0\laba_07.AssemblyInfo.cs
+C:\Users\Пользователь\Desktop\uni 2024\2_year\YAPI\7_lab\laba_07\laba_07\obj\Debug\net9.0\laba_07.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\uni 2024\2_year\YAPI\7_lab\laba_07\laba_07\obj\Debug\net9.0\laba_07.dll
+C:\Users\Пользователь\Desktop\uni 2024\2_year\YAPI\7_lab\laba_07\laba_07\obj\Debug\net9.0\refint\laba_07.dll
+C:\Users\Пользователь\Desktop\uni 2024\2_year\YAPI\7_lab\laba_07\laba_07\obj\Debug\net9.0\laba_07.pdb
+C:\Users\Пользователь\Desktop\uni 2024\2_year\YAPI\7_lab\laba_07\laba_07\obj\Debug\net9.0\laba_07.genruntimeconfig.cache
+C:\Users\Пользователь\Desktop\uni 2024\2_year\YAPI\7_lab\laba_07\laba_07\obj\Debug\net9.0\ref\laba_07.dll
